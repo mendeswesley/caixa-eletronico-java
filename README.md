@@ -15,15 +15,17 @@ O sistema lê o saldo inicial e permite que o usuário realize saques com valida
 ```
 caixa-eletronico-java/
 ├── pom.xml
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── mycompany/
-│                   └── caixaeletronico/
-│                       ├── CaixaEletronico.java
-│                       ├── SaldoAtual.java
-│                       └── Saque.java
+├── LICENSE.md
+├── README.md
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── mycompany/
+                    └── caixaeletronico/
+                        ├── CaixaEletronico.java
+                        ├── SaldoAtual.java
+                        └── Saque.java
 ```
 
 ---
